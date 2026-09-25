@@ -1,0 +1,21 @@
+PERSONAL
+Gmail
+Username: code_harder@gm@il.com
+Password: HardCoder123
+
+LinkedIn
+Username: code_harder@gm@il.com
+Password: LeakInCred3nti!al
+
+
+WORK
+Cloud Dashboard Reg Testing
+Username: automation@ctf-2026.com
+Password: eR3$ae3Op6fK3gq#T6
+
+Old Cloud Dashboard Password
+Username: automation@ctf-2026.com
+Password: eR3$ae3Op6fK3gq#T5
+
+Username: regression@ctf-2026.com   # ACCOUNT DISABLED SINCE IT GOT HACKED
+Password: Regression1               # NEED TO CHANGE SINCE SUSPICIOUS ACTIVITY WAS SEEN FROM THIS ACCOUNT
