@@ -1,3 +1,5 @@
+FLAG: CTF{hardcoded_and_leaked_credentials_are_easy_wins}
+
 PERSONAL
 Gmail
 Username: code_harder@gm@il.com
@@ -9,7 +11,8 @@ Password: LeakInCred3nti!al
 
 
 WORK
-Cloud Dashboard Reg Testing
+Cloud Reg Testing
+*.internal.ctf-2026.com
 Username: automation@ctf-2026.com
 Password: eR3$ae3Op6fK3gq#T6
 
