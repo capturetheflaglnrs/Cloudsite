@@ -1,4 +1,4 @@
-FLAG: CTF{hardcoded_and_leaked_credentials_are_easy_wins}
+Challenge 4 Flag: CTF{hardcoded_and_leaked_credentials_are_easy_wins}
 
 PERSONAL
 Gmail
